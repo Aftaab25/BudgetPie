@@ -1,0 +1,5 @@
+Done:
+	- Created Sprites for Logo and other similar uses
+
+TODOs:
+	- Brainstorm Architecture for the App

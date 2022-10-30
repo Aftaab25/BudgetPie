@@ -1,7 +1,7 @@
 Home Page:
 	- Login Page
 		- Logo
-		- Google Sign in using Firebase
+		- Login (Login method to be decided)
 
 After Login:
 	- Pie Chart for current Budget
