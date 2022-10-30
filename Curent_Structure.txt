@@ -1,0 +1,22 @@
+Home Page:
+	- Login Page
+		- Logo
+		- Google Sign in using Firebase
+
+After Login:
+	- Pie Chart for current Budget
+		- 
+		- 
+		- 
+	- Button:
+		- Manage Budget
+
+Manage Budget:
+	- Add Budget
+	- Subtract Budget
+	- Pie Chart for current Plans
+	- Button: Change current Plan
+
+Change current plan:
+	- add/remove events
+	- add/subtract money corresponding to each event
