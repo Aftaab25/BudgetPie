@@ -1,2 +1,2 @@
 # BudgetPie
-Android app to manage monthly budgets
+Flutter based Android app to manage monthly budgets
